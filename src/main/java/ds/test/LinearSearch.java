@@ -18,7 +18,7 @@ public class LinearSearch
 				break;
 			}
 		}
-		// if foundIndex is anything other than -1, that means we have found the element, print its value if its so, 
+		// if foundIndex is anything other than -1, that means we have found the element, print its value if it's so, 
 		// otherwise print that the array does not have the given element 
 		if(foundIndex >= 0)
 			System.out.println(toFind + " found at index " + foundIndex + " in the array!");
