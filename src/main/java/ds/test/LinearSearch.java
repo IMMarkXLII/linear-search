@@ -1,6 +1,6 @@
 package ds.test;
 
-public class Application
+public class LinearSearch
 {
 	public static void main( String[] args )
 	{	
